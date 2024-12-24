@@ -58,6 +58,11 @@ Calculator/
 
 ### Dark Theme
 ![Dark Theme Screenshot](./Screenshot/themeDark.png)
+
+## Links
+
+- Solution URL: [https://github.com/Mouadasel/Calculator](https://github.com/Mouadasel/Calculator)
+- Live Site URL: [https://mouadasel-calculator.netlify.app/](https://mouadasel-calculator.netlify.app/)
 ## Future Enhancements
 - Add more advanced operations (e.g., square root, percentage).
 - Implement additional themes.
