@@ -54,10 +54,10 @@ Calculator/
 
 ## Screenshots
 ### Light Theme
-![Light Theme Screenshot](./Screenshot/light-theme.png)
+![Light Theme Screenshot](./Screenshot/themeLight.png)
 
 ### Dark Theme
-![Dark Theme Screenshot](./Screenshot/dark-theme.png)
+![Dark Theme Screenshot](./Screenshot/themeDark.png)
 ## Future Enhancements
 - Add more advanced operations (e.g., square root, percentage).
 - Implement additional themes.
